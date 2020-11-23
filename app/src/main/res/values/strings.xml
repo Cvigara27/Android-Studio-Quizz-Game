@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizzGame</string>
+    <string name="question_pokemon">Alolan Raichu is Electric and Phsychic</string>
+    <string name="question_digimon">Quimeramon is a Mega level Digimon</string>
+    <string name="question_ffx">In FFX all the summons are: Valefor, Ifrit, Ixion, Shiva, Bahamut, Yojimbo, Anima</string>
+    <string name="question_hollow">Hornet is from Deep Nest</string>
+    <string name="question_smite">The oposite of Amaterasu is Tsukuyomi</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
